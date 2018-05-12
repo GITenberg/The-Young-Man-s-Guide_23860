@@ -17,6 +17,8 @@ description: '"The leading purpose of ...[this book]...is to aid in forming the 
   -- a document which should be thoroughly studied and understood by all young men
   who would become the intelligent and useful citizens of a free country..." -- p.
   4-5.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23860#The-Young-Man-s-Guide
 gutenberg_bookshelf: Sociology
 gutenberg_issued: '2007-12-14'
 gutenberg_type: Text
